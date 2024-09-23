@@ -5,6 +5,7 @@
 
 ## Status: Working
 > Update Logs: https://pastebin.com/raw/zAiuWqzg
+> <a href="[https://github.com/YOUR_REPOSITORY](https://pastebin.com/raw/zAiuWqzg)" target="_blank">Click Here</a>
 
 
 ## Download
