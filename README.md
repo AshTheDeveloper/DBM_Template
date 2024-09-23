@@ -4,11 +4,11 @@
 
 
 ## Status: Working
-Update Logs: https://pastebin.com/raw/zAiuWqzg
+> Update Logs: https://pastebin.com/raw/zAiuWqzg
 
 
 ## Download
-Download Link: https://pastebin.com/dl/49ZYDqiy
+> Download Link: https://pastebin.com/dl/49ZYDqiy
 
 
 ### Installation
